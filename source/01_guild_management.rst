@@ -9,6 +9,8 @@
 .. toctree::
    :maxdepth: 2
 
+   01_auto_accept
+   01_guildfest
    01_notifications
    01_gifts
    01_administrators

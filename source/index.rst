@@ -22,10 +22,4 @@
 
    01_guild_management
    02_bot_management
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   03_faq
